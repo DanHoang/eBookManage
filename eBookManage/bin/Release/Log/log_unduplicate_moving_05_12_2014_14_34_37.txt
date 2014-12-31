@@ -1,0 +1,65 @@
+D:\STUDY\eBooks\Other\032193394XCassand\032193394XCassand.epub	D:\STUDY\eBooks\Computer science\032193394XCassand.epub
+D:\STUDY\eBooks\Other\032193394XCassand\Practical Cassandra - Developer approach.pdf	D:\STUDY\eBooks\Computer science\Practical Cassandra - Developer approach.pdf
+D:\STUDY\eBooks\Other\1782168176Cassan\1782168176Cassan.epub	D:\STUDY\eBooks\Computer science\1782168176Cassan.epub
+D:\STUDY\eBooks\Other\1782168176Cassan\Learning Cassandra for administrator.pdf	D:\STUDY\eBooks\Computer science\Learning Cassandra for administrator.pdf
+D:\STUDY\eBooks\Other\9780992279431Bootstrap\SP.Jump.Start.Bootstrap.Jul.2014.epub	D:\STUDY\eBooks\Computer science\SP.Jump.Start.Bootstrap.Jul.2014.epub
+D:\STUDY\eBooks\Other\9780992279431Bootstrap\SP.Jump.Start.Bootstrap.Jul.2014.pdf	D:\STUDY\eBooks\Computer science\SP.Jump.Start.Bootstrap.Jul.2014.pdf
+D:\STUDY\eBooks\Other\Android\1118504380_JaAnd.epub	D:\STUDY\eBooks\Computer science\1118504380_JaAnd.epub
+D:\STUDY\eBooks\Other\Android\1118504380_JaAnd.pdf	D:\STUDY\eBooks\Computer science\1118504380_JaAnd.pdf
+D:\STUDY\eBooks\Other\Android\Android_Magazine_-_Issue_No._43.pdf	D:\STUDY\eBooks\Computer science\Android_Magazine_-_Issue_No._43.pdf
+D:\STUDY\eBooks\Other\Android\Professional Android Sensor Programming.pdf	D:\STUDY\eBooks\Computer science\Professional Android Sensor Programming.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Ajax.pdf	D:\STUDY\eBooks\Computer science\Head First Ajax.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Android Development.pdf	D:\STUDY\eBooks\Computer science\Head First Android Development.pdf
+D:\STUDY\eBooks\Other\Head first\Head First C.pdf	D:\STUDY\eBooks\Computer science\Head First C.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Data Analysis.pdf	D:\STUDY\eBooks\Computer science\Head First Data Analysis.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Design Patterns.pdf	D:\STUDY\eBooks\Computer science\Head First Design Patterns.pdf
+D:\STUDY\eBooks\Other\Head first\Head First HTML and CSS, 2nd Edition.pdf	D:\STUDY\eBooks\Computer science\Head First HTML and CSS, 2nd Edition.pdf
+D:\STUDY\eBooks\Other\Head first\Head First HTML with CSS & XHTML.pdf	D:\STUDY\eBooks\Computer science\Head First HTML with CSS & XHTML.pdf
+D:\STUDY\eBooks\Other\Head first\Head First iPhone and iPad Development, 2nd Edition.pdf	D:\STUDY\eBooks\Computer science\Head First iPhone and iPad Development, 2nd Edition.pdf
+D:\STUDY\eBooks\Other\Head first\Head First iPhone and iPad Development, 3rd Edition.pdf	D:\STUDY\eBooks\Computer science\Head First iPhone and iPad Development, 3rd Edition.pdf
+D:\STUDY\eBooks\Other\Head first\Head First iPhone Development.pdf	D:\STUDY\eBooks\Computer science\Head First iPhone Development.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Java, 2nd Edition.pdf	D:\STUDY\eBooks\Computer science\Head First Java, 2nd Edition.pdf
+D:\STUDY\eBooks\Other\Head first\Head First JavaScript Programming.pdf	D:\STUDY\eBooks\Computer science\Head First JavaScript Programming.pdf
+D:\STUDY\eBooks\Other\Head first\Head First JavaScript.pdf	D:\STUDY\eBooks\Computer science\Head First JavaScript.pdf
+D:\STUDY\eBooks\Other\Head first\Head First jQuery.pdf	D:\STUDY\eBooks\Computer science\Head First jQuery.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Mobile Web.pdf	D:\STUDY\eBooks\Computer science\Head First Mobile Web.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Object-Oriented Analysis and Design.pdf	D:\STUDY\eBooks\Computer science\Head First Object-Oriented Analysis and Design.pdf
+D:\STUDY\eBooks\Other\Head first\Head First PMP, 2nd Edition.pdf	D:\STUDY\eBooks\Computer science\Head First PMP, 2nd Edition.pdf
+D:\STUDY\eBooks\Other\Head first\Head First PMP, 3rd Edition.pdf	D:\STUDY\eBooks\Computer science\Head First PMP, 3rd Edition.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Programming.pdf	D:\STUDY\eBooks\Computer science\Head First Programming.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Python.pdf	D:\STUDY\eBooks\Computer science\Head First Python.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Rails.pdf	D:\STUDY\eBooks\Computer science\Head First Rails.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Servlets and JSP, 2nd Edition.pdf	D:\STUDY\eBooks\Computer science\Head First Servlets and JSP, 2nd Edition.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Software Development.pdf	D:\STUDY\eBooks\Computer science\Head First Software Development.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Statistics.pdf	D:\STUDY\eBooks\Computer science\Head First Statistics.pdf
+D:\STUDY\eBooks\Other\Head first\Head First Web Design.pdf	D:\STUDY\eBooks\Computer science\Head First Web Design.pdf
+D:\STUDY\eBooks\Other\Head first\Mobile First Design with HTML5 and CSS3.pdf	D:\STUDY\eBooks\Computer science\Mobile First Design with HTML5 and CSS3.pdf
+D:\STUDY\eBooks\Other\Node js\CoffeeScript Programming with jQuery, Rails, and Node.js.pdf	D:\STUDY\eBooks\Computer science\CoffeeScript Programming with jQuery, Rails, and Node.js.pdf
+D:\STUDY\eBooks\Other\Node js\Getting Started with GEO, CouchDB, and Node.js.pdf	D:\STUDY\eBooks\Computer science\Getting Started with GEO, CouchDB, and Node.js.pdf
+D:\STUDY\eBooks\Other\Node js\Jump Start Node.js.pdf	D:\STUDY\eBooks\Computer science\Jump Start Node.js.pdf
+D:\STUDY\eBooks\Other\Node js\Learning Nodejs.pdf	D:\STUDY\eBooks\Computer science\Learning Nodejs.pdf
+D:\STUDY\eBooks\Other\Node js\Node Cookbook.pdf	D:\STUDY\eBooks\Computer science\Node Cookbook.pdf
+D:\STUDY\eBooks\Other\Node js\Node.js in action.pdf	D:\STUDY\eBooks\Computer science\Node.js in action.pdf
+D:\STUDY\eBooks\Other\Node js\Node.js Recipes.pdf	D:\STUDY\eBooks\Computer science\Node.js Recipes.pdf
+D:\STUDY\eBooks\Other\Node js\Node.js the Right Way.pdf	D:\STUDY\eBooks\Computer science\Node.js the Right Way.pdf
+D:\STUDY\eBooks\Other\Node js\Practical Node.js.pdf	D:\STUDY\eBooks\Computer science\Practical Node.js.pdf
+D:\STUDY\eBooks\Other\Node js\Pro Node.js for Developers.pdf	D:\STUDY\eBooks\Computer science\Pro Node.js for Developers.pdf
+D:\STUDY\eBooks\Other\Node js\Professional Node.js.pdf	D:\STUDY\eBooks\Computer science\Professional Node.js.pdf
+D:\STUDY\eBooks\Other\Node js\Using Node.js for UI Testing.pdf	D:\STUDY\eBooks\Computer science\Using Node.js for UI Testing.pdf
+D:\STUDY\eBooks\Other\1491950293JaScr.epub	D:\STUDY\eBooks\Computer science\1491950293JaScr.epub
+D:\STUDY\eBooks\Other\1491950293JaScr.pdf	D:\STUDY\eBooks\Computer science\1491950293JaScr.pdf
+D:\STUDY\eBooks\Other\Bootstrap.pdf	D:\STUDY\eBooks\Computer science\Bootstrap.pdf
+D:\STUDY\eBooks\Other\Extending Bootstrap.pdf	D:\STUDY\eBooks\Computer science\Extending Bootstrap.pdf
+D:\STUDY\eBooks\Other\httpd-docs-2.4.9.en.pdf	D:\STUDY\eBooks\Computer science\httpd-docs-2.4.9.en.pdf
+D:\STUDY\eBooks\Other\MySQL Cookbook, 3rd Edition.pdf	D:\STUDY\eBooks\Computer science\MySQL Cookbook, 3rd Edition.pdf
+D:\STUDY\eBooks\Other\nodebeginner.pdf	D:\STUDY\eBooks\Computer science\nodebeginner.pdf
+D:\STUDY\eBooks\Other\Programming Computer Vision with Python.pdf	D:\STUDY\eBooks\Computer science\Programming Computer Vision with Python.pdf
+D:\STUDY\eBooks\Other\read guide.pdf	D:\STUDY\eBooks\Computer science\read guide.pdf
+D:\STUDY\eBooks\Other\SQL_Server_2014_Licensing_Guide.pdf	D:\STUDY\eBooks\Computer science\SQL_Server_2014_Licensing_Guide.pdf
+D:\STUDY\eBooks\Other\StarterTutorial_20120530.pdf	D:\STUDY\eBooks\Computer science\StarterTutorial_20120530.pdf
+D:\STUDY\eBooks\Other\Statistical Pattern Recognition, 3rd Edition.pdf	D:\STUDY\eBooks\Computer science\Statistical Pattern Recognition, 3rd Edition.pdf
+D:\STUDY\eBooks\Other\The_Speed_Reading_Book_-_Tony_Buzan-235_pg.pdf	D:\STUDY\eBooks\Computer science\The_Speed_Reading_Book_-_Tony_Buzan-235_pg.pdf
+D:\STUDY\eBooks\Other\Twitter Bootstrap Web Development How-To.pdf	D:\STUDY\eBooks\Computer science\Twitter Bootstrap Web Development How-To.pdf
+D:\STUDY\eBooks\Other\Web Development with Node and Express.pdf	D:\STUDY\eBooks\Computer science\Web Development with Node and Express.pdf
+D:\STUDY\eBooks\Other\Website-11-2014.pdf	D:\STUDY\eBooks\Computer science\Website-11-2014.pdf
+D:\STUDY\eBooks\Other\WindowsServerRDS_VLBrief.pdf	D:\STUDY\eBooks\Computer science\WindowsServerRDS_VLBrief.pdf

@@ -1,0 +1,32 @@
+D:\STUDY\Computer science\debian\Debian Beginner guide and install\developers-reference.en.pdf	D:\STUDY\eBooks\Computer science\developers-reference.en.pdf
+D:\STUDY\Computer science\debian\Debian Beginner guide and install\maint-guide.en.pdf	D:\STUDY\eBooks\Computer science\maint-guide.en.pdf
+D:\STUDY\Computer science\debian\Debian Beginner guide and install\packaging-tutorial.en.pdf	D:\STUDY\eBooks\Computer science\packaging-tutorial.en.pdf
+D:\STUDY\Computer science\jquery\SEO\Get to the op on Google.pdf	D:\STUDY\eBooks\Computer science\Get to the op on Google.pdf
+D:\STUDY\Computer science\jquery\SEO\Google's page rank and beyond.djvu	D:\STUDY\eBooks\Computer science\Google's page rank and beyond.djvu
+D:\STUDY\Computer science\jquery\SEO\Managing_Brand_You__7_Steps_to_Creating_Your_Most_Successful_Self.pdf	D:\STUDY\eBooks\Computer science\Managing_Brand_You__7_Steps_to_Creating_Your_Most_Successful_Self.pdf
+D:\STUDY\Computer science\jquery\jQuery1.2.cheatsheet.v1.0.pdf	D:\STUDY\eBooks\Computer science\jQuery1.2.cheatsheet.v1.0.pdf
+D:\STUDY\Computer science\Magento\Theme\fortis.v1.0.1.for.magento.1.6.2.0\fortis-flexible-magento-theme\Fortis Theme\Fortis Theme User Guide.pdf	D:\STUDY\eBooks\Computer science\Fortis Theme User Guide.pdf
+D:\STUDY\Computer science\Magento\Theme\wt-converse_gks\document.pdf	D:\STUDY\eBooks\Computer science\document.pdf
+D:\STUDY\Computer science\mysql\PDF Ebook Guide High Performance MySQL 2008\Make Money Online Get Rich Starting Today\Checker\How To Use The Checker.pdf	D:\STUDY\eBooks\Computer science\How To Use The Checker.pdf
+D:\STUDY\Computer science\mysql\PDF Ebook Guide High Performance MySQL 2008\Make Money Online Get Rich Starting Today\Quick Money Guide.pdf	D:\STUDY\eBooks\Computer science\Quick Money Guide.pdf
+D:\STUDY\Computer science\PHP\secure and spider\Hack Proofing Your Web Applications.pdf	D:\STUDY\eBooks\Computer science\Hack Proofing Your Web Applications.pdf
+D:\STUDY\Computer science\PHP\secure and spider\No.Starch.Press.Webbots.Spiders.and.Screen.Scrapers.Mar.2007.chm	D:\STUDY\eBooks\Computer science\No.Starch.Press.Webbots.Spiders.and.Screen.Scrapers.Mar.2007.chm
+D:\STUDY\Computer science\PHP\secure and spider\Spidering Hacks (OReilly~2003.10).chm	D:\STUDY\eBooks\Computer science\Spidering Hacks (OReilly~2003.10).chm
+D:\STUDY\Computer science\PHP\secure and spider\Yahoo Hacks (OReilly~2005.10).chm	D:\STUDY\eBooks\Computer science\Yahoo Hacks (OReilly~2005.10).chm
+D:\STUDY\Computer science\SEARCH ALGORITHMS\9780807216071_Single Shard.pdf	D:\STUDY\eBooks\Computer science\9780807216071_Single Shard.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\dhruba_hadoop_snia.pdf	D:\STUDY\eBooks\Computer science\dhruba_hadoop_snia.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\EY_Filesystem_Sharding_Tactics_and_Processes.pdf	D:\STUDY\eBooks\Computer science\EY_Filesystem_Sharding_Tactics_and_Processes.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\freenet.pdf	D:\STUDY\eBooks\Computer science\freenet.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\Introduction to Information Retrieval.pdf	D:\STUDY\eBooks\Computer science\Introduction to Information Retrieval.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\p1-dean.pdf	D:\STUDY\eBooks\Computer science\p1-dean.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\pap346.pdf	D:\STUDY\eBooks\Computer science\pap346.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\SHARD_how_to_manual.pdf	D:\STUDY\eBooks\Computer science\SHARD_how_to_manual.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\singleshard.pdf	D:\STUDY\eBooks\Computer science\singleshard.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\sortsearch.pdf	D:\STUDY\eBooks\Computer science\sortsearch.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\tsa-lectures-1.pdf	D:\STUDY\eBooks\Computer science\tsa-lectures-1.pdf
+D:\STUDY\Computer science\SEARCH ALGORITHMS\tsa-lectures-2.pdf	D:\STUDY\eBooks\Computer science\tsa-lectures-2.pdf
+D:\STUDY\Computer science\software development process\Engineering Long-Lasting Software An Agile Approach Using SaaS and Cloud Computing, Beta Edition.epub	D:\STUDY\eBooks\Computer science\Engineering Long-Lasting Software An Agile Approach Using SaaS and Cloud Computing, Beta Edition.epub
+D:\STUDY\Computer science\Core network protocols.pdf	D:\STUDY\eBooks\Computer science\Core network protocols.pdf
+D:\STUDY\Computer science\DeeperInsidePR.pdf	D:\STUDY\eBooks\Computer science\DeeperInsidePR.pdf
+D:\STUDY\Computer science\implement dictionary.pdf	D:\STUDY\eBooks\Computer science\implement dictionary.pdf
+D:\STUDY\Computer science\pagerank.pdf	D:\STUDY\eBooks\Computer science\pagerank.pdf

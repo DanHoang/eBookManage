@@ -1,0 +1,3 @@
+d:\eBooks\Computer science\Learning.JavaScript.Design.Patterns.pdf	d:\eBooks\Computer science\Learning JavaScript Design Patterns.pdf
+d:\eBooks\Computer science\Manning.Hadoop.in.Action.Dec.2010.pdf	d:\eBooks\Computer science\Manning Hadoop in Action Dec 2010.pdf
+d:\eBooks\Computer science\Oreilly.Writing.and.Querying.MapReduce.Views.in.CouchDB.Jan.2011.pdf	d:\eBooks\Computer science\Oreilly Writing and Querying MapReduce Views in CouchDB Jan 2011.pdf

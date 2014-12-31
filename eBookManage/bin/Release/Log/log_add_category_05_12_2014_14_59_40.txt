@@ -1,0 +1,12 @@
+D:\STUDY\eBooks\Computer science\Engineering Long-Lasting Software An Agile Approach Using Saas And Cloud Computing, Beta Edition.epub	D:\STUDY\eBooks\Computer science\[AGILE] Engineering Long-Lasting Software An Agile Approach Using Saas And Cloud Computing, Beta Edition.epub
+D:\STUDY\eBooks\Computer science\Head First Android Development.pdf	D:\STUDY\eBooks\Computer science\[ANDROID] Head First Android Development.pdf
+D:\STUDY\eBooks\Computer science\Head First Design Patterns.pdf	D:\STUDY\eBooks\Computer science\[DESIGN PATTERN] Head First Design Patterns.pdf
+D:\STUDY\eBooks\Computer science\Head First Java, 2nd Edition.pdf	D:\STUDY\eBooks\Computer science\[JAVA] Head First Java, 2nd Edition.pdf
+D:\STUDY\eBooks\Computer science\Learning Cassandra For Administrator.pdf	D:\STUDY\eBooks\Computer science\[NOSQL] Learning Cassandra For Administrator.pdf
+D:\STUDY\eBooks\Computer science\Learning Javascript Design Patterns.pdf	D:\STUDY\eBooks\Computer science\[DESIGN PATTERN] Learning Javascript Design Patterns.pdf
+D:\STUDY\eBooks\Computer science\Nodejs For Php Developers.epub	D:\STUDY\eBooks\Computer science\[PHP] Nodejs For Php Developers.epub
+D:\STUDY\eBooks\Computer science\Nodejs For Php Developers.pdf	D:\STUDY\eBooks\Computer science\[PHP] Nodejs For Php Developers.pdf
+D:\STUDY\eBooks\Computer science\Practical Cassandra - Developer Approach.pdf	D:\STUDY\eBooks\Computer science\[NOSQL] Practical Cassandra - Developer Approach.pdf
+D:\STUDY\eBooks\Computer science\Pro Html5 & Css3 Design Pattern.pdf	D:\STUDY\eBooks\Computer science\[DESIGN PATTERN] Pro Html5 & Css3 Design Pattern.pdf
+D:\STUDY\eBooks\Computer science\Professional Android Sensor Programming.pdf	D:\STUDY\eBooks\Computer science\[ANDROID] Professional Android Sensor Programming.pdf
+D:\STUDY\eBooks\Computer science\Statistical Pattern Recognition, 3rd Edition.pdf	D:\STUDY\eBooks\Computer science\[DESIGN PATTERN] Statistical Pattern Recognition, 3rd Edition.pdf

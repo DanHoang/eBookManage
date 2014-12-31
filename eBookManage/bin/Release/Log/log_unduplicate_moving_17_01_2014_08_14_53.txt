@@ -1,0 +1,7 @@
+d:\eBooks\temp books\Apress.Pro.Hibernate.and.MongoDB.Jul.2013\Apress.Pro.Hibernate.and.MongoDB.Jul.2013.epub	d:\eBooks\Computer science\Apress.Pro.Hibernate.and.MongoDB.Jul.2013.epub
+d:\eBooks\temp books\Apress.Pro.Hibernate.and.MongoDB.Jul.2013\Apress.Pro.Hibernate.and.MongoDB.Jul.2013.pdf	d:\eBooks\Computer science\Apress.Pro.Hibernate.and.MongoDB.Jul.2013.pdf
+d:\eBooks\temp books\Oreilly.Hadoop.The.Definitive.Guide.3rd.Edition.May.2012\Oreilly.Hadoop.The.Definitive.Guide.3rd.Edition.May.2012.epub	d:\eBooks\Computer science\Oreilly.Hadoop.The.Definitive.Guide.3rd.Edition.May.2012.epub
+d:\eBooks\temp books\Oreilly.Hadoop.The.Definitive.Guide.3rd.Edition.May.2012\Oreilly.Hadoop.The.Definitive.Guide.3rd.Edition.May.2012.pdf	d:\eBooks\Computer science\Oreilly.Hadoop.The.Definitive.Guide.3rd.Edition.May.2012.pdf
+d:\eBooks\temp books\Packtpub.Hadoop.MapReduce.Cookbook.Jan.2013\Packtpub.Hadoop.MapReduce.Cookbook.Jan.2013.epub	d:\eBooks\Computer science\Packtpub.Hadoop.MapReduce.Cookbook.Jan.2013.epub
+d:\eBooks\temp books\Packtpub.Hadoop.MapReduce.Cookbook.Jan.2013\Packtpub.Hadoop.MapReduce.Cookbook.Jan.2013.pdf	d:\eBooks\Computer science\Packtpub.Hadoop.MapReduce.Cookbook.Jan.2013.pdf
+d:\eBooks\temp books\Pro.jQuery.pdf	d:\eBooks\Computer science\Pro.jQuery.pdf

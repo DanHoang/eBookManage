@@ -1,0 +1,4 @@
+d:\eBooks\Computer science\Addison.Wesley.Scalability.Rules.May.2011.epub	d:\eBooks\Computer science\Addison Wesley Scalability Rules May 2011.epub
+d:\eBooks\Computer science\Addison.Wesley.Scalability.Rules.May.2011.pdf	d:\eBooks\Computer science\Addison Wesley Scalability Rules May 2011.pdf
+d:\eBooks\Computer science\Addison.Wesley.The.Art.of.Scalability.Nov.2009.pdf	d:\eBooks\Computer science\Addison Wesley The Art of Scalability Nov 2009.pdf
+d:\eBooks\Computer science\Packtpub.Cassandra.High.Performance.Cookbook.Jul.2011.pdf	d:\eBooks\Computer science\Packtpub Cassandra High Performance Cookbook Jul 2011.pdf

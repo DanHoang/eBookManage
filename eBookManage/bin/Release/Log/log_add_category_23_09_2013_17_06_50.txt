@@ -1,0 +1,17 @@
+D:\eBooks\Computer science\Beginning Microsoft SQL Server 2008 Administration.pdf	D:\eBooks\Computer science\[SQL] Beginning Microsoft SQL Server 2008 Administration.pdf
+D:\eBooks\Computer science\Beginning Programming With Java For Dummies 2nd Edition.pdf	D:\eBooks\Computer science\[JAVA] Beginning Programming With Java For Dummies 2nd Edition.pdf
+D:\eBooks\Computer science\Design Pattern Java Workbook.pdf	D:\eBooks\Computer science\[JAVA] Design Pattern Java Workbook.pdf
+D:\eBooks\Computer science\Expert Cube Development With Microsoft SQL Server 2008 Analysis Services.pdf	D:\eBooks\Computer science\[SQL] Expert Cube Development With Microsoft SQL Server 2008 Analysis Services.pdf
+D:\eBooks\Computer science\Jasper Reports For Java Developers.pdf	D:\eBooks\Computer science\[JAVA] Jasper Reports For Java Developers.pdf
+D:\eBooks\Computer science\Java 6 Platform Revealed.pdf	D:\eBooks\Computer science\[JAVA] Java 6 Platform Revealed.pdf
+D:\eBooks\Computer science\Java All In One Desk Reference For Dummies.pdf	D:\eBooks\Computer science\[JAVA] Java All In One Desk Reference For Dummies.pdf
+D:\eBooks\Computer science\Java For Dummies.pdf	D:\eBooks\Computer science\[JAVA] Java For Dummies.pdf
+D:\eBooks\Computer science\Java Game Programming For Dummies.pdf	D:\eBooks\Computer science\[JAVA] Java Game Programming For Dummies.pdf
+D:\eBooks\Computer science\Java Regular Expressions.pdf	D:\eBooks\Computer science\[JAVA] Java Regular Expressions.pdf
+D:\eBooks\Computer science\Learning Java.pdf	D:\eBooks\Computer science\[JAVA] Learning Java.pdf
+D:\eBooks\Computer science\Microsoft SQL Server Hight Availability.chm	D:\eBooks\Computer science\[SQL] Microsoft SQL Server Hight Availability.chm
+D:\eBooks\Computer science\Pro Java Programming.pdf	D:\eBooks\Computer science\[JAVA] Pro Java Programming.pdf
+D:\eBooks\Computer science\Professional Microsoft SQL Server 2008 Administrations.pdf	D:\eBooks\Computer science\[SQL] Professional Microsoft SQL Server 2008 Administrations.pdf
+D:\eBooks\Computer science\Professional Microsoft SQL Server 2008 Programming.pdf	D:\eBooks\Computer science\[SQL] Professional Microsoft SQL Server 2008 Programming.pdf
+D:\eBooks\Computer science\Programming SQL Server 2008.chm	D:\eBooks\Computer science\[SQL] Programming SQL Server 2008.chm
+D:\eBooks\Computer science\Simply Java.pdf	D:\eBooks\Computer science\[JAVA] Simply Java.pdf

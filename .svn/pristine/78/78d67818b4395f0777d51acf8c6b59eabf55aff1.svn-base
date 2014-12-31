@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="category" value="PHP,Debian,iOS,Android,Agile,UML,design patterns,java,jquery,html,css,flash,ubuntu,apache,cloud computing,nosql,eclipse,html5,regular expression,security,facebook,shell,unix,subversion,ALGORITHM,ALGORITHMs,seo,social,rails,droid,galaxy,tomcat,cloud,python,open source,cassandra,linux,oop,ood,oriented,actionscript,action script,cocoa,objective c,Search Engine,irbook,sql,lamp,ajax,mariadb,regular expressions,magento,squid,pattern,jakarta,bash scripting,high avaiability,database tuning,mysql,zend"/>
+    <add key="extension" value="pdf,chm,epub,prc,djvu"/>
+    <add key="group" value="PHP:PHP;Debian:Debian,Ubuntu;iOS:ios,cocoa,objective c;Agile:Agile;flash:flash,action script;android:android,droid;drupal:drupal;nosql:cassandra,nosql;eclipse:eclipse;magento:magento"/>
+  </appSettings>
+</configuration>
